@@ -6,3 +6,4 @@ easyocr
 torch
 torchvision
 scikit-learn
+textblob
