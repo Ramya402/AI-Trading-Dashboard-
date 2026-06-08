@@ -5,3 +5,4 @@ plotly
 easyocr
 torch
 torchvision
+scikit-learn
