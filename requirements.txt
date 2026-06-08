@@ -2,10 +2,10 @@ streamlit
 yfinance
 pandas
 plotly
-easyocr
---find-links https://download.pytorch.org/whl/cpu/torch_stable.html
-torchvision==0.16.0+cpu
-torch==2.1.0+cpu
 scikit-learn
 textblob
 streamlit-autorefresh
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch==2.1.2+cpu
+torchvision==0.16.2+cpu
+easyocr
